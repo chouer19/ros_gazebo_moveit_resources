@@ -1,0 +1,1 @@
+# ros_gazebo_moveit_resources
